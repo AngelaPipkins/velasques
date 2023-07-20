@@ -1,1 +1,2 @@
 def Abrvald()
+func Glavriba
